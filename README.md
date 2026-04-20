@@ -1,2 +1,7 @@
-# demo-all-saints-cafe
-Demo web para All Saints Cafe — diseñada por eterlab.
+# All Saints Cafe
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
